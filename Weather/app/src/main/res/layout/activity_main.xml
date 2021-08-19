@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="104dp"
+        android:textAlignment="center"
+        android:text="JSON and XML PARSER "
+        android:textSize="20sp"
+        android:gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/parsexmlbutton"
+        android:layout_width="match_parent"
+        android:layout_height="102dp"
+        android:text="XML parser" />
+
+    <Button
+        android:id="@+id/parsejsonbutton"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="JSON parser" />
+
+    <TextView
+        android:id="@+id/resulttextView"
+        android:layout_width="match_parent"
+        android:layout_height="385dp"
+        android:gravity="center_horizontal"
+        android:text="ResultTextView"
+        android:textAlignment="center" />
+
+
+</LinearLayout>

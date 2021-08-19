@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Mysuru",
+    "state": "karnataka",
+    "nation": "INDIA",
+    "temperature": "24",
+    "lat": "12.295",
+    "long":"76.639"
+  },
+  {
+    "name": "Bangalore",
+    "state": "karnataka",
+    "nation": "INDIA",
+    "temperature": "28",
+    "lat": "12.97",
+    "long":"77.59"
+  }
+]

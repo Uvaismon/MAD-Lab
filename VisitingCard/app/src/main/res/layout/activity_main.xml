@@ -26,7 +26,8 @@
         android:textAlignment="center"
         android:textColor="#BD0F0F"
         android:textSize="30sp"
-        android:textStyle="bold|italic" />
+        android:textStyle="bold|italic"
+        android:layout_alignParentLeft="true" />
 
     <ImageView
         android:id="@+id/imageView"

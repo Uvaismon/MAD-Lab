@@ -30,12 +30,11 @@ public class MainActivity extends AppCompatActivity {
         myTimer = new Timer();
         wpm = WallpaperManager.getInstance(this);
         changeWallpaper = findViewById(R.id.button);
-        changeWallpaper.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public  void onClick(View view) {
+        changeWallpaper.setOnClickListener(
+                v -> {
                 setWallpaper();
             }
-        });
+        );
     }
 
     private void setWallpaper() {

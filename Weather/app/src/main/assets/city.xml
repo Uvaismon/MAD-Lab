@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<records>
+    <place>
+        <name> Mysuru </name>
+        <state> karnataka </state>
+        <nation> INDIA </nation>
+        <lat>12.295</lat>
+        <long>76.639</long>
+        <temperature> 24 </temperature>
+    </place>
+    <place>
+        <name> Bangalore </name>
+        <state> karnataka </state>
+        <nation> INDIA </nation>
+        <lat>12.97</lat>
+        <long>77.59</long>
+        <temperature> 28 </temperature>
+    </place>
+</records>
